@@ -1,0 +1,14 @@
+layout_spectrum: 0.08968847
+color:
+  saturation: 0.563063
+  brandStrength: 0.1691729
+  lightness: 0.5430086
+  rhythmicContrast: 0.06486324
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+typography_spectrum: 0.6385607
+name: Webpark
