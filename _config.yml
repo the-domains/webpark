@@ -1,14 +1,7 @@
-color:
-  saturation: 0.563063
-  brandStrength: 0.1691729
-  rhythmicContrast: 0.06486324
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  lightness: 0.5430086
+name: Webpark
+favicon: null
+layout_spectrum: 0.99637
+typography_spectrum: 0.6385607
 collections:
   - index:
       path: /
@@ -21,6 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.08968847
-typography_spectrum: 0.6385607
-name: Webpark
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.1691729
+  lightness: 0.5430086
+  saturation: 0.563063
+  rhythmicContrast: 0.06486324
+purpose: []
